@@ -1,0 +1,25 @@
+base url id - contactbook.androidclient:id/editTextApiUrl
+
+button connect id - contactbook.androidclient:id/buttonConnect
+button.Click ()
+
+editTestField - contactbook.androidclient:id/editTextKeyword
+
+
+fill the field - steve
+after filling the name - 	
+contactbook.androidclient:id/editTextKeyword
+
+search button - contactbook.androidclient:id/buttonSearch
+button.Click()
+
+first name - contactbook.androidclient:id/textViewFirstName
+
+last name - contactbook.androidclient:id/textViewLastName
+
+TEST @
+
+search results - contactbook.androidclient:id/textViewSearchResult
+
+first name - /android.widget.TableRow[3]/android.widget.TextView[2]
+last name - /android.widget.TableRow[4]/android.widget.TextView[2]
